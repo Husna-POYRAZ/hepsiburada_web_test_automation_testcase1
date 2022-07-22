@@ -10,11 +10,11 @@ provides an infrastructure for the [W3C WebDriver specification](https://w3c.git
 major web browsers.
 
 Test Case
-• Uygulama açılır
-• Anasayfada Konum alanına tıklanır.
-• İl, ilçe ve mahalle seçilir ve kaydet butonuna Kklanır.
-• Konumunuz Kaydedildi popup’ı kontrol edilir.
-• Tab bar üzerinden kategoriler tabına tıklanır.
-• Herhangi bir kategori seçilip listeleme sayfasına yönlenilir.
-• Listeleme sayfasında Yarın Kapında alanında gelen il bilgisi ile anasayfada seçilen il bilgisinin
+* Uygulama açılır
+* Anasayfada Konum alanına tıklanır.
+* İl, ilçe ve mahalle seçilir ve kaydet butonuna Kklanır.
+* Konumunuz Kaydedildi popup’ı kontrol edilir.
+* Tab bar üzerinden kategoriler tabına tıklanır.
+* Herhangi bir kategori seçilip listeleme sayfasına yönlenilir.
+* Listeleme sayfasında Yarın Kapında alanında gelen il bilgisi ile anasayfada seçilen il bilgisinin
 aynı olduğu kontrol edilir.
